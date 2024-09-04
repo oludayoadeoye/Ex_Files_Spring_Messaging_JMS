@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_03_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_03_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_03_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_03_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_04_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_04_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_04_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_01/01_04_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_03_begin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_03_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_03_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_03_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_05_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_05_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_05_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_02/02_05_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_02_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_02_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_02_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_02_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_03_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_03_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_03_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_03_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_04_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_04_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_04_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_04_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_05_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_05_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_05_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_05_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_06_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_06_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_06_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_06_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_07_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_07_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_07_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_03/03_07_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_01_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_01_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_01_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_01_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_02_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_02_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_02_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_02_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_03_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_03_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_03_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_03_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_04_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_04_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_04_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_04_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_05_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_05_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_05_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_04/04_05_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_01_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_01_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_01_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_01_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_02_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_02_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_02_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_02_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_03_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_03_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_03_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_03_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_04_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_04_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_04_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_04_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_05_begin" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_05_begin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_05_end" />
+        <option name="gradleJvm" value="temurin-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Exercise Files/Chapter_05/05_05_end" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

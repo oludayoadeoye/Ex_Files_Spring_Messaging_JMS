@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="03_05_begin.main" target="1.8" />
+      <module name="03_05_begin.test" target="1.8" />
+      <module name="04_01_end.main" target="1.8" />
+      <module name="04_01_end.test" target="1.8" />
+      <module name="05_02_end.main" target="1.8" />
+      <module name="05_02_end.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
